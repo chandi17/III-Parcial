@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\TiendaClaseIIIParcial.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\App.config" />
+  <event action="Analyze" type="Success" name="frmProducto.resx" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\CLASE\frmProducto.resx" />
+  <event action="Analyze" type="Success" name="frmRestaurarContrasenia.resx" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\CLASE\frmRestaurarContrasenia.resx" />
+  <event action="Analyze" type="Success" name="frmUsuario.resx" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\CLASE\frmUsuario.resx" />
+  <event action="Analyze" type="Success" name="Login.resx" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\CLASE\Login.resx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\CLASE\MensajeAennviar.html" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\CLASE\MensajeAennviar.html" />
+  <event action="Analyze" type="Success" name="MensajeAennviar.html" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\CLASE\MensajeAennviar.html" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="Tienda.resx" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\TAREAS\Tienda.resx" />
+  <event action="Analyze" type="Success" name="TiendaClaseIIIParcial" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\TiendaClaseIIIParcial.vbproj" />
+  <event action="Analyze" type="Success" name="TiendaClaseIIIParcial" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial.sln" />
+  <event action="Backup" type="Success" name="TiendaClaseIIIParcial" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\TiendaClaseIIIParcial.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\TiendaClaseIIIParcial.vbproj" />
+  <event action="Upgrade" type="Success" name="TiendaClaseIIIParcial" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial\TiendaClaseIIIParcial.vbproj" />
+  <event action="Upgrade" type="Success" name="TiendaClaseIIIParcial" path="C:\Users\Elmer Chandia\Downloads\III-Parcial-master\TiendaClaseIIIParcial\TiendaClaseIIIParcial.sln" />
+</log>
